@@ -1,0 +1,17 @@
+/Users/jbaker/Code/Talk/bin/Debug/net8.0/Talk
+/Users/jbaker/Code/Talk/bin/Debug/net8.0/Talk.deps.json
+/Users/jbaker/Code/Talk/bin/Debug/net8.0/Talk.runtimeconfig.json
+/Users/jbaker/Code/Talk/bin/Debug/net8.0/Talk.dll
+/Users/jbaker/Code/Talk/bin/Debug/net8.0/Talk.pdb
+/Users/jbaker/Code/Talk/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/jbaker/Code/Talk/obj/Debug/net8.0/Talk.csproj.AssemblyReference.cache
+/Users/jbaker/Code/Talk/obj/Debug/net8.0/Talk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jbaker/Code/Talk/obj/Debug/net8.0/Talk.AssemblyInfoInputs.cache
+/Users/jbaker/Code/Talk/obj/Debug/net8.0/Talk.AssemblyInfo.cs
+/Users/jbaker/Code/Talk/obj/Debug/net8.0/Talk.csproj.CoreCompileInputs.cache
+/Users/jbaker/Code/Talk/obj/Debug/net8.0/Talk.csproj.CopyComplete
+/Users/jbaker/Code/Talk/obj/Debug/net8.0/Talk.dll
+/Users/jbaker/Code/Talk/obj/Debug/net8.0/refint/Talk.dll
+/Users/jbaker/Code/Talk/obj/Debug/net8.0/Talk.pdb
+/Users/jbaker/Code/Talk/obj/Debug/net8.0/Talk.genruntimeconfig.cache
+/Users/jbaker/Code/Talk/obj/Debug/net8.0/ref/Talk.dll
